@@ -12,6 +12,7 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
         android:textSize="30dp"
+        android:fontFamily="cursive"
         android:text="Happy Birthday Noah!" />
 
     <TextView
@@ -19,6 +20,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true"
+        android:fontFamily="cursive"
         android:textSize="25dp"
         android:text="From Papa!" />
 
