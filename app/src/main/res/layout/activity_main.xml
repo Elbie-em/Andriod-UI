@@ -14,7 +14,7 @@
         android:background="#000000"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="50dp"
+        android:textSize="30dp"
         android:textColor="#E2e4E2"
-        android:text="Hello World!" />
+        android:text="Happy Birthday Noah!" />
 </RelativeLayout>
