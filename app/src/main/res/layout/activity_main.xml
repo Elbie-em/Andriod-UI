@@ -17,4 +17,9 @@
         android:layout_height="wrap_content"
         android:textSize="25dp"
         android:text="From Papa!" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/androidparty"/>
 </RelativeLayout>
